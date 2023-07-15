@@ -1,4 +1,4 @@
-# SERL_LAB_Proj
+# SERL-IIITA
 The Software Engineering Research Lab (SERL) at IIIT Allahabad is to be established to undertake world-class research in designing of complex, largescale software-intensive systems of scalable solutions, which are steered by business needs.
 This is a SERL LAB Website for IIITA Students, Researchers, Professors, To showcase the projects published by respective people.
 This is a SERL LAB Website for IIITA Students, Researchers, Professors, To showcase the projects published by respective people.
